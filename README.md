@@ -13,7 +13,7 @@ This project is beginner-friendly and ideal for learning basic Python concepts l
 - Generates **numeric passwords only**
 - User can choose the **number of digits**
 - Ensures the password has **exactly the required length**
-- Uses Python’s built-in `random` module
+- Uses Python’s built-in random module
 - Lightweight and easy to understand
 
 ---
@@ -21,7 +21,7 @@ This project is beginner-friendly and ideal for learning basic Python concepts l
 ## 🛠️ Technologies Used
 
 - Python 3  
-- `random` module  
+- random module  
 
 ---
 
