@@ -42,5 +42,5 @@ This project is beginner-friendly and ideal for learning basic Python concepts l
 ## ▶ How to Run
 1. Clone the repository
    ```bash
-   digits password genrator.py
+   https://github.com/astroAchyu/digits-password-generator
    
